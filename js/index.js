@@ -5,3 +5,9 @@ b=a-b;
 a=a-b;
 document.write(a);
 document.write(b)
+console.log(3+5);
+console.log(3-5);
+console.log(3*5);
+console.log(3/5);
+
+
